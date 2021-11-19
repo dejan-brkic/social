@@ -54,7 +54,7 @@
         <org.apache.commons.codec.version>1.9</org.apache.commons.codec.version>
         <org.apache.httpcomponents.version>4.3.3</org.apache.httpcomponents.version>
         <jackson.version>2.9.6</jackson.version>
-        <logback.version>1.2.3</logback.version>
+        <logback.version>1.2.7</logback.version>
         <test.port>8080</test.port>
     </properties>
 
