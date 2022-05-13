@@ -11,7 +11,7 @@
 	<parent>
 		<groupId>org.craftercms</groupId>
 		<artifactId>crafter-social-parent</artifactId>
-		<version>3.0.16</version><!-- craftercms version flag -->
+		<version>v2.4.1-RC2</version><!-- craftercms version flag -->
 	</parent>
 	<organization>
 		<name>CrafterCMS</name>
@@ -38,7 +38,7 @@
 	</scm>
 	<properties>
 		<java.version>1.8</java.version>
-		<org.springframework.version>4.3.18.RELEASE</org.springframework.version>
+		<org.springframework.version>5.2.22.RELEASE</org.springframework.version>
 		<org.slf4j.version>1.7.5</org.slf4j.version>
 		<javax.inject.version>1</javax.inject.version>
 		<servlet.api.version>3.0.1</servlet.api.version>
